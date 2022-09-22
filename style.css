@@ -2,3 +2,19 @@ iframe{
     text-align:center;
     width:100%;
 }
+
+.travel_main_div
+{
+    border:1px solid lightgray;
+
+
+}
+.travel_main_div
+{
+   width:100%;
+}
+
+.travel_main_dive h5, .travel_main_div p
+{
+  margin:20px;
+}
